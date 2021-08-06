@@ -1,0 +1,6 @@
+Concepto de For
+El "FOR se utiliza para que el progama realice una acción, hasta que se cumpla determiada condición. A diferencia del Do While, en el For las condiciones de ejecución las ponemos de antemano
+
+El concepto && signifaca "y", se utiliza para anidar codiciones. Por ejemplo, si se cumplr determinada condicion && (y) determinada condicion, hace tal cosa
+El concepto || (o) a diferencia del anterior significa que si se cumple una condicion y otra condición, ejecuta el programa. Seria como alternativo, "una cosa o la otra"
+El concepto ! (niega) si no se cumple esa condicion, hace tal cosa
