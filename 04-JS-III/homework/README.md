@@ -11,4 +11,3 @@
 
 ### Aca tendras acceso a las [Soluciones](https://github.com/atralice/Curso.Prep.Henry/blob/solution/04-JS-III/homework/homework.js)
 
-El array podemos definirlo como una matriz porque en su interior hay muchos datos. Esos datos pueden servir para describir algo.
