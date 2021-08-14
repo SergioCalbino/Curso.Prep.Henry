@@ -1,0 +1,5 @@
+Variables La varibale es algo que acumula datos
+	* Strings : es una cadena de caracteres
+	* Funciones (argumentos, `return`) Sirven para calcular las variables, o modificarlas, etc
+	* Declaraciones `if` Sirven para realziar determinado acto "Si" se cumple la condincion
+	* Valores booleanos (`true`, `false`) Son verdadero o False, no admite otra cosa
